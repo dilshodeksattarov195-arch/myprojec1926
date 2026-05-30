@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionsarse",
+        "uuid": 18976878,
+        "checksum": "ou0xr6"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
